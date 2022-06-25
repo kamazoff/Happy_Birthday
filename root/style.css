@@ -30,7 +30,7 @@ body {
 
 .header__front {
     position: relative;
-    background-image: url(./Images/HappyBirthday.png);
+    background-image: url(../Images/HappyBirthday.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
@@ -126,73 +126,73 @@ body {
 }
 
 .back__container-0 {
-    background-image: url(./Images/DenRozhdeniya.JPG);
+    background-image: url(../Images/DenRozhdeniya.JPG);
     
 }
 
 .back__container-1 {
-    background-image: url(./Images/14February.JPG);
+    background-image: url(../Images/14February.JPG);
     
 }
 
 .back__container-2 {
-    background-image: url(./Images/Tom.jpg);
+    background-image: url(../Images/giraff.JPG);
 }
 
 .back__container-3 {
-    background-image: url(./Images/Alleya.JPG);
+    background-image: url(../Images/Alleya.JPG);
 }
 
 .back__container-4 {
-    background-image: url(./Images//Alleya2.JPG);
+    background-image: url(../Images//Alleya2.JPG);
 }
 
 .back__container-5 {
-    background-image: url(./Images/DetkiVladik.jpg);
+    background-image: url(../Images/DetkiVladik.jpg);
 }
 
 .back__container-6 {
-    background-image: url(./Images/Edyusha.JPG);
+    background-image: url(../Images/Edyusha.JPG);
 }
 
 .back__container-7 {
-    background-image: url(./Images/Videozvonok.jpg);
+    background-image: url(../Images/Videozvonok.jpg);
 }
 
 .back__container-8 {
-    background-image: url(./Images/Edyusha3.JPG);
+    background-image: url(../Images/Edyusha3.JPG);
 }
 
 .back__container-9 {
-    background-image: url(./Images/Vystavka.jpg);
+    background-image: url(../Images/Vystavka.jpg);
 }
 
 .back__container-10 {
-    background-image: url(./Images/Pushkina.jpg);
+    background-image: url(../Images/Pushkina.jpg);
 }
 
 .back__container-11 {
-    background-image: url(./Images/Evochka3.JPG);
+    background-image: url(../Images/Evochka3.JPG);
 }
 
 .back__container-12 {
-    background-image: url(./Images/Firstflowers.jpg);
+    background-image: url(../Images/Firstflowers.jpg);
 }
 
 .back__container-13 {
-    background-image: url(./Images/Kino.JPG);
+    background-image: url(../Images/Kino.JPG);
 }
 
 .back__container-14 {
-    background-image: url(./Images/ParkMikhailovsk.JPG);
+    background-image: url(../Images/ParkMikhailovsk.JPG);
 }
 
 .back__container-15 {
-    background-image: url(./Images/Princessa.jpg);
+    background-image: url(../Images/Princessa.jpg);
 }
 
 .back__container-16 {
-    background-image: url(./Images/Princessa2.JPG);
+    background-image: url(../Images/Princessa2.JPG);
 }
 
 .back__container:hover {
@@ -298,69 +298,69 @@ body {
 }
 
 .popup__content-1 {
-    background-image: url(images/14February.jpg);
+    background-image: url(../images/14February.jpg);
     width: 900px;
     height: 600px;
 }
 
 .popup__content-2 {
-    background-image: url(/Images/Tom.jpg);
+    background-image: url(../Images/giraff.JPG);
 }
 
 .popup__content-3 {
-    background-image: url(./Images/Alleya.JPG);
+    background-image: url(../Images/Alleya.JPG);
 }
 
 .popup__content-4 {
-    background-image: url(./Images/Alleya2.jpg);
+    background-image: url(../Images/Alleya2.jpg);
 }
 .popup__content-5 {
-    background-image: url(./Images/DetkiVladik.jpg);
+    background-image: url(../Images/DetkiVladik.jpg);
     width: 900px;
     height: 600px;
 }
 .popup__content-6 {
-    background-image: url(./Images/Edyusha.jpg);
+    background-image: url(../Images/Edyusha.jpg);
     width: 900px;
     height: 600px;
 }
 .popup__content-7 {
-    background-image: url(./Images/Videozvonok.jpg);
+    background-image: url(../Images/Videozvonok.jpg);
 }
 .popup__content-8 {
-    background-image: url(./Images/Edyusha3.jpg);
+    background-image: url(../Images/Edyusha3.jpg);
 }
 .popup__content-9 {
-    background-image: url(./Images/Vystavka.jpg);
+    background-image: url(../Images/Vystavka.jpg);
     width: 900px;
     height: 600px;
 }
 .popup__content-10 {
-    background-image: url(./Images/Pushkina.jpg);
+    background-image: url(../Images/Pushkina.jpg);
     width: 900px;
     height: 600px;
 }
 .popup__content-11 {
-    background-image: url(./Images/Evochka3.jpg);
+    background-image: url(../Images/Evochka3.jpg);
 }
 .popup__content-12 {
-    background-image: url(./Images/Firstflowers.jpg);
+    background-image: url(../Images/Firstflowers.jpg);
 }
 .popup__content-13 {
-    background-image: url(./Images/Kino.jpg);
+    background-image: url(../Images/Kino.jpg);
 }
 .popup__content-14 {
-    background-image: url(./Images/ParkMikhailovsk.jpg);
+    background-image: url(../Images/ParkMikhailovsk.jpg);
 }
 .popup__content-15 {
-    background-image: url(./Images/Princessa.jpg);
+    background-image: url(../Images/Princessa.jpg);
 }
 .popup__content-16 {
-    background-image: url(./Images/Princessa2.jpg);
+    background-image: url(../Images/Princessa2.jpg);
 }
 
 .popup__content-0 {
-    background-image: url(./Images/DenRozhdeniya.JPG);
+    background-image: url(../Images/DenRozhdeniya.JPG);
     width: 900px;
     height: 600px;
 }
