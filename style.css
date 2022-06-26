@@ -100,17 +100,17 @@ body {
     width: 12.4vw;
     height: 12.4vw;
     margin-bottom: 20px; 
-    opacity: 0;
     border-radius: 10px;
+    opacity: .4;
+    z-index: 101;
+    transition: all .4s;
     /* transition: all 4s ease; */
 }
 
 
 
  .back__container {
-    opacity: .4;
-    z-index: 101;
-    transition: all .4s;
+    
     
 }
 
@@ -307,7 +307,8 @@ body {
 }
 
 .popup__content-2 {
-    background-image: url(./Images/giraff.JPG);
+    background-image: url(./Images/giraff.jpg);
+    background-position-y: 30%;
 }
 
 .popup__content-3 {
@@ -354,6 +355,7 @@ body {
 }
 .popup__content-14 {
     background-image: url(./Images/ParkMikhailovsk.jpg);
+    
 }
 .popup__content-15 {
     background-image: url(./Images/Princessa.jpg);
@@ -363,7 +365,7 @@ body {
 }
 
 .popup__content-0 {
-    background-image: url(./Images/DenRozhdeniya.JPG);
+    background-image: url(./Images/DenRozhdeniya.jpg);
     width: 80%;
     height: 70vh;
 }
@@ -375,7 +377,7 @@ body {
     justify-content: center;
     margin: auto;
     transform: translate(0px, 100%);
-    transition: all 3s ease;
+    transition: all 2s ease;
     
 }
 
@@ -390,4 +392,44 @@ body {
 .first-letter {
     font-weight: bold;
     color: red;
+}
+
+@media screen and (max-width: 800px){
+    .popup {
+        height: 80vh;
+    }
+    
+    .popup__body {
+        align-items: unset;
+    }
+
+    /* .popup__content {
+        width: 100%;
+        height: 70vh;
+    } */
+    
+    .popup__content-portrait {
+        height: 100vh;
+        position: fixed;
+        background-size: cover;
+        background-position-y: 30%;
+
+    }
+
+    .back__container {
+        width: 20.4vw;
+        height: 20.4vw;
+    }
+
+    .popup__poem {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5em;
+    }
+    
+    @media screen and (min-width: 320px) {
+     
+     .popup__content-portrait {
+        width: 80%;
+     }   
 }
